@@ -22,6 +22,7 @@ Sin embargo se detectaron diversos bugs en la web, relacionados al lado visual d
 El mapa no te muestra los iconos con los vehiculos cercanos y sus marcas respectivas en el mapa.
 Un aspecto funcional importante es que no es posible cancelar un viaje.
 En cuanto a la zona de pago con tarjeta, si bien el usuario puede agregar mas de 1 medio de pago. la interfaz no te muestra los ultimos 4 digitos de las tarjetas ingresadas lo cual resulta en un problema para el usuario para identificar la tarjeta que desea usar para pagar su viaje.
+Para ver más sobre los casos de prueba realizados y los informes de bugs reportados, ingresa aqui: [Urban Routes Pruebas](https://docs.google.com/spreadsheets/d/1T9vNiqi24pHRU_cHOvZuf3wtmeO_Pffp/edit?gid=382892057#gid=382892057)
 
 Urban Routes es una plataforma interesante que de ser introducida en el mercado ofreceria un servicio diferente al consumidor, de alguna forma personalizado. Sin embargo, debido a los diferentes bugs que presenta la web, no es momento adecuado para que sea utilizada por los usuarios finales, ya que posee errores de interfaz y visuales que pueden perjudicar su experiencia, dejandoles una mala impresion de su funcionamiento.
 
