@@ -3,6 +3,8 @@ Urban Routes es un pagina de transporte, en la cual puedes reservar un vehiculo,
 en la opcion flash puedes solicitar un taxi, y te da alternativas para escoger entre diferentes tarifas, como se muestra en la imagen.
 ![image](https://github.com/user-attachments/assets/8bdb7edb-760b-4215-ae07-404fbab24d70)
 Cada tarifa tiene en comun el ingreso de un medio de pago, tarjeta de credito y agregar numero de telefono, cada tarifa te ofrece diferentes opciones adicionales que agregar en tu viaje.
+# Herramientas utilizadas
+Drive/Excel | Figma | Jira
 
 # Compartir un automovil.
 En la opcion Personal, la web te da la opcion de compartir vehiculo.
