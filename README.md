@@ -7,9 +7,11 @@ Cada tarifa tiene en comun el ingreso de un medio de pago, tarjeta de credito y 
 # Compartir un automovil.
 En la opcion Personal, la web te da la opcion de compartir vehiculo.
 ![image](https://github.com/user-attachments/assets/551e7073-90a2-44bf-880a-b3a05503ff89)
+
 En esta opcion solo tienes 3 tarifas a elegir: Casual, Camping y de lujo como se muestra en la imagen superior.
 Otro aspecto particular de compartir un vehiculo, es que te solicita ademas de medio de pago, ingresar licencia de conducir.
 Cada una de las tarifas tiene diferentes aspectos adicionales que puedes elegir agregar en el viaje.
+
 ![image](https://github.com/user-attachments/assets/58e1bdf2-9ba6-40dc-89f6-cfe7b573ae13)
 
 # Resultados
